@@ -1,3 +1,5 @@
+package ed02.bancario;
+
 /**
  * Classe base para representar uma conta bancária.
  */

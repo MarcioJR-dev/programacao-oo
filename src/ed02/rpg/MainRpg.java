@@ -1,3 +1,5 @@
+package ed02.rpg;
+
 /**
  * Classe principal para testar o Jogo de RPG.
  */

@@ -1,3 +1,5 @@
+package ed02.rpg;
+
 /**
  * Subclasse que representa um guerreiro.
  */

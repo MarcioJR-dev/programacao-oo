@@ -1,3 +1,5 @@
+package ed02.bancario;
+
 /**
  * Subclasse que representa uma conta corrente.
  */

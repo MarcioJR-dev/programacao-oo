@@ -1,3 +1,5 @@
+package ed02.rpg;
+
 /**
  * Classe base para representar um personagem de RPG.
  */
