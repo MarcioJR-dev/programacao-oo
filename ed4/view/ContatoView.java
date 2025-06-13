@@ -1,7 +1,7 @@
-package ED4.view;
+package ed4.view;
 
-import ED4.controller.ContatoController;
-import ED4.model.Contato;
+import ed4.controller.ContatoController;
+import ed4.model.Contato;
 import java.util.List;
 import java.util.Scanner;
 

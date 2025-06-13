@@ -1,4 +1,4 @@
-package ED4.model;
+package ed4.model;
 
 /**
  * Classe que representa uma Pessoa Física na agenda de contatos.

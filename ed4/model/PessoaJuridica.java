@@ -1,4 +1,4 @@
-package ED4.model;
+package ed4.model;
 
 /**
  * Classe que representa uma Pessoa Jurídica na agenda de contatos.

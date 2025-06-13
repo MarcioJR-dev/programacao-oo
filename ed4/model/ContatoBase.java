@@ -1,4 +1,4 @@
-package ED4.model;
+package ed4.model;
 
 /**
  * Classe abstrata base para todos os tipos de contatos.

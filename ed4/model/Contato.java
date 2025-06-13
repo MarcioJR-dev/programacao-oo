@@ -1,4 +1,4 @@
-package ED4.model;
+package ed4.model;
 
 /**
  * Interface que define os métodos básicos que todos os contatos devem implementar.

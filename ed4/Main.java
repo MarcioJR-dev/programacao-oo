@@ -1,7 +1,7 @@
-package ED4;
+package ed4;
 
-import ED4.controller.ContatoController;
-import ED4.view.ContatoView;
+import ed4.controller.ContatoController;
+import ed4.view.ContatoView;
 
 /**
  * Classe principal que inicia a aplicação da Agenda de Contatos.

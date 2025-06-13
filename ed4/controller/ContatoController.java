@@ -1,8 +1,8 @@
-package ED4.controller;
+package ed4.controller;
 
-import ED4.model.Contato;
-import ED4.model.PessoaFisica;
-import ED4.model.PessoaJuridica;
+import ed4.model.Contato;
+import ed4.model.PessoaFisica;
+import ed4.model.PessoaJuridica;
 import java.util.ArrayList;
 import java.util.List;
 
